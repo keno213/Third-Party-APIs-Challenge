@@ -1,0 +1,35 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;
+  background-color: rgb(
+    84,
+    151,
+    190
+  ) !important; /* delete everything below later */
+}
+
+.swim-lanes {
+  min-height: 60vh;
+}
+
+.task-card {
+  margin: 0 auto;
+}
+
+.task-card:hover {
+  cursor: grab;
+}
+
+.ui-draggable-dragging {
+  z-index: 1000; /* Adjust this value as needed */
+}
+
+/* Add white border to To Do cards */
+#todo-cards .card {
+  border: 1px solid rgb(203, 202, 209);
+}
+
+/* Add white border to delete buttons */
+.delete {
+  border: 1px solid white;
+}
