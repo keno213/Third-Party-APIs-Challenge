@@ -48,7 +48,7 @@ This project challenges you to create a simple task board application using star
 
 ## Screenshot
 
-- ![alt text](task-board.gif)
+- ![alt text](git.gif)
 
 ## Contact:
 
