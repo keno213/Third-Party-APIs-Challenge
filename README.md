@@ -30,8 +30,9 @@ This project challenges you to create a simple task board application using star
 ## Installation
 
     1. Download ZIP file or clone repository to your local machine using the link below:
-        - Github:https://github.com/keno213/Third-Party-APIs-Challenge
-          - Github.io: keno213.github.io/Third-Party-APIs-Challenge // to view the full functionality
+        - Github: https://github.com/keno213/Third-Party-APIs-Challenge
+
+          - Github.io: https://keno213.github.io/Third-Party-APIs-Challenge // to view the full functionality
 
     2. Using your code editor, open the `index.html` file in your preferred web browser.
 
