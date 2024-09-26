@@ -55,10 +55,6 @@ This project challenges you to create a simple task board application using star
 
 Feel free to reach out to Lucky Usionya through the contact information provided on the website or through his social media profiles if you have any questions or feedback.
 
-## Contact:
-
-Feel free to reach out to Lucky Usionya through the contact information provided on the github page or through his social media profiles if you have any questions or feedback.
-
 ## References:
 
 - UT Austin Bootcamp - UTA-VIRT-FSF-PT-02-2024-U-LOLC
